@@ -13,7 +13,7 @@ Este repositorio contiene tiene los archivos de la version 2D del videojuego **"
  
 - **Versión 2D:** El juego de que tienes que esquivar a los enemigos intentando tener el mayor tiempo vivo en la partida al pasar el tiepo los enemigo seran mas dificil de esquivar algunos seran rapido
 
-al igual que la vercion 3D ambos proyectos fueron desarrollados como parte del aprendizaje y práctica en desarrollo de videojuegos con Godot.
+al igual que la version 3D ambos proyectos fueron desarrollados como parte del aprendizaje y práctica en desarrollo de videojuegos con Godot.
 
 ## Evidencia
 
