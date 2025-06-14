@@ -11,7 +11,7 @@
 Este repositorio contiene tiene los archivos de la version 2D del videojuego **"Squash the Creeps"**, desarrolladas como parte de los tutoriales oficiales del motor **Godot Engine**:
 
  
-- **Versión 2D:** El juego de que tienes que esquivar a los enemigos intentando tener el mayor tiempo vivo en la partida al pasar el tiepo los enemigo seran mas dificil de esquivar algunos seran rapido
+- **Versión 2D:** en esta version el jugador tiene que esquivar a los enemigos intentando tener el mayor tiempo vivo en la partida al pasar el tiempo los enemigo seran más dificil de esquivar algunos seran rapido
 
 al igual que la version 3D ambos proyectos fueron desarrollados como parte del aprendizaje y práctica en desarrollo de videojuegos con Godot.
 
@@ -41,7 +41,7 @@ https://github.com/leandro20C/squash-the-creeps-2d
 
 ---
 
-Gracias por visitar este proyecto. ¡Esperamos que disfrutes los juegos! 🚀
+Gracias por visitar este proyecto. ¡Esperamos que disfrutes los juegos! 
 
 
 
