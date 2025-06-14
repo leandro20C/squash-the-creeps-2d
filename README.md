@@ -19,22 +19,22 @@ al igual que la vercion 3D ambos proyectos fueron desarrollados como parte del a
 
 Los proyectos se encuentran organizados en las siguientes carpetas dentro del repositorio:
 
-- `SquashTheCreeps3D/` – Contiene todos los archivos del juego en 3D.
+- `SquashTheCreeps2D/` – Contiene todos los archivos del juego en 2D.
 
 Los juegos han sido probados y son completamente funcionales.
 
 ## Repositorio Público
 
 Repositorio disponible en GitHub:  
-https://github.com/leandro20C/Squash-the-Creeps-3D.git
+https://github.com/leandro20C/squash-the-creeps-2d
 
 
-## 📂 Archivos Importantes
+## Archivos Importantes
 
 - `.gitignore`: Incluye una configuración adecuada para proyectos en **Godot**, evitando subir archivos temporales o generados automáticamente por el motor.
 - `README.md`: Este archivo, explicando el contenido y propósito del repositorio.
 
-## ✅ Requisitos
+## Requisitos
 
 - [Godot Engine](https://godotengine.org/) 4.x o superior
 - Clonar o descargar el repositorio y abrir cada carpeta del proyecto directamente desde Godot
